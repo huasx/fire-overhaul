@@ -1,0 +1,12 @@
+.idea/
+.svn/
+.git/
+.gitignore
+rsync.exclude
+rsync.password
+rsync.sh
+/uploads
+.DS_Store
+/node_modules
+/build
+/storage
