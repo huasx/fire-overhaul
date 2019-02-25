@@ -25,7 +25,7 @@
 ---|---
 hydrant_name | 消火栓标识名称
 hydrant_sn| 消火栓编码
-status| 消火栓状态（故障、维护中、正常）
+status| 消火栓状态（待维修、维护中、正常）
 merchant_id| 所属公司
 overhaul_desc| 检修描述
 overhaul_staff| 检修员
